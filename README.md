@@ -28,6 +28,8 @@ Seeds are a game score only. They are not SQK or tokens, and the game needs no w
 
 This is a community project for the Squeekchain Genesis Buildooooor badge. It is not affiliated with Squeekchain.
 
+squeekchain-project: 7291c9a1-e161-4007-b322-aa70d4881f81
+
 ## Run locally
 
 ```bash
